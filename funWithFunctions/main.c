@@ -1,11 +1,3 @@
-/******************************************
- * Programmer:      Carlos Morales
- * Course:          COSC 1437 Section 004
- * Semester:        Summer 2019
- * Assignment #:    15
- * Due Date:        July 17, 2019
- ******************************************/
-
 #include <stdio.h>
 
 #define N 5 /* identifier/constant for array size */

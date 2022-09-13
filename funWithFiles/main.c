@@ -1,11 +1,3 @@
-/******************************************
- * Programmer:      Carlos Morales
- * Course:          COSC 1437 Section 004
- * Semester:        Summer 2019
- * Assignment #:    21
- * Due Date:        July 30, 2019
- ******************************************/
-
 #include <stdio.h>
 #include <string.h>
 #include "info.h"

@@ -1,11 +1,3 @@
-/******************************************************
- * Programmer:		Carlos Morales
- * Course: 			COSC 2436 Section 003
- * Semester: 		Spring 2021
- * Assignment #:	3
- * Due Date: 		2/17/2021
- ******************************************************/
-
 #include <stdio.h>
 #include <string.h>
 #include "stack.h"

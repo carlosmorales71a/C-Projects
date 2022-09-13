@@ -1,11 +1,3 @@
-/*******************************************
-// Programmer:		Carlos Morales
-// Course: 		COSC 2436 Section 003
-// Semester: 		Spring 2021
-// Assignment #:	9
-// Due Date: 		4/7/2021
-*******************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

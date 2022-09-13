@@ -1,11 +1,3 @@
-/**********************************************************
-// Programmer:		Carlos Morales
-// Course:          COSC 2436 Section 003
-// Semester: 		Spring 2021
-// Assignment #:	7
-// Due Date: 		03/24/2021
-**********************************************************/
-
 #include <stdio.h>
 #include <string.h>
 #include "link2.h"

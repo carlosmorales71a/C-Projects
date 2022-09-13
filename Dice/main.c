@@ -1,11 +1,3 @@
-/******************************************
- * Programmer:      Carlos Morales
- * Course:          COSC 1437 Section 004
- * Semester:        Summer 2019
- * Assignment #:    16
- * Due Date:        July 17, 2019
- ******************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

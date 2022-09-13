@@ -1,11 +1,3 @@
-/******************************************
- * Programmer:      Carlos Morales
- * Course:          COSC 1437 Section 004
- * Semester:        Summer 2019
- * Assignment #:    14
- * Due Date:        July 17, 2019
- ******************************************/
-
 #include <stdio.h>
 
 #define PI 3.14159    /* identifier/constant for the number PI */
